@@ -1,0 +1,16 @@
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\TypeWord.csprojAssemblyReference.cache
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\TypeWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\TypeWord.AssemblyInfoInputs.cache
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\TypeWord.AssemblyInfo.cs
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\TypeWord.csproj.CoreCompileInputs.cache
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\bin\Debug\net5.0\TypeWord.exe
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\bin\Debug\net5.0\TypeWord.deps.json
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\bin\Debug\net5.0\TypeWord.runtimeconfig.json
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\bin\Debug\net5.0\TypeWord.runtimeconfig.dev.json
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\bin\Debug\net5.0\TypeWord.dll
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\bin\Debug\net5.0\ref\TypeWord.dll
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\bin\Debug\net5.0\TypeWord.pdb
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\TypeWord.dll
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\ref\TypeWord.dll
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\TypeWord.pdb
+C:\Users\VINKOS\source\repos\TypeWord\TypeWord\obj\Debug\net5.0\TypeWord.genruntimeconfig.cache
